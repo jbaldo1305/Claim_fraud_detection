@@ -46,11 +46,11 @@ GridSearchCV
 Feature Engineering
 
 ## Final Results
-# Best Model:
+### Best Model:
 
 Logistic Regression + SMOTE + Threshold Tuning
 
-# Improvements:
+### Improvements:
 Recall improved from 0.53 → 0.81
 False negatives reduced from 23 → 9
 
