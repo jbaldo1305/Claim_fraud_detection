@@ -122,6 +122,10 @@ Seaborn
 
 ![ROC Curve](image/roc_curve.png)
 
+## Recall Comparison
+
+![Recall Comparison](image/recall_comparison.png)
+
 ## Feature Importance
 
 ![Feature Importance](image/feature_importance.png)
