@@ -22,36 +22,57 @@ https://www.kaggle.com/datasets/buntyshah/auto-insurance-claims-data
 ## Project Workflow
 
 Data Cleaning
+
 Feature Selection
+
 Feature Engineering
+
 Handling Missing Values
+
 Encoding & Preprocessing
+
 Baseline Modeling
+
 SMOTE for Imbalance Handling
+
 Model Comparison
+
 Hyperparameter Tuning
+
 Threshold Tuning
 
 ## Models Used
+
 Logistic Regression
+
 Random Forest
+
 Gradient Boosting
 
 ## Key Techniques
+
 SMOTE
+
 One-Hot Encoding
+
 StandardScaler
+
 Threshold Tuning
+
 GridSearchCV
+
 Feature Engineering
 
 ## Final Results
+
 ### Best Model:
 
 Logistic Regression + SMOTE + Threshold Tuning
 
 ### Improvements:
+
 Recall improved from 0.53 → 0.81
+
 False negatives reduced from 23 → 9
 
 This significantly improved fraud detection performance.
@@ -61,15 +82,22 @@ This significantly improved fraud detection performance.
 The final model can help insurance companies:
 
 Identify suspicious claims earlier
+
 Reduce fraudulent payouts
+
 Improve investigation prioritization
 
 ## Future Improvements
+
 XGBoost
+
 Larger datasets
+
 Additional behavioral features
+
 More advanced hyperparameter tuning
-Technologies Used
+
+## Technologies Used
 Python
 Pandas
 NumPy
