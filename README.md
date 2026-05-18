@@ -1,4 +1,4 @@
-### Claim_fraud_detection
+# Claim_fraud_detection
 ## Project Overview
 
 This project develops a machine learning model to detect potentially fraudulent auto insurance claims using customer, policy, incident, and claim-related data.
