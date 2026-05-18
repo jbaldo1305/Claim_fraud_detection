@@ -111,3 +111,19 @@ Imbalanced-learn
 Matplotlib
 
 Seaborn
+
+# Model Performance
+
+## Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+## ROC Curve
+
+![ROC Curve](images/roc_curve.png)
+
+## Feature Importance
+
+![Feature Importance](images/feature_importance.png)
+
+
