@@ -99,9 +99,15 @@ More advanced hyperparameter tuning
 
 ## Technologies Used
 Python
+
 Pandas
+
 NumPy
+
 Scikit-learn
+
 Imbalanced-learn
+
 Matplotlib
+
 Seaborn
