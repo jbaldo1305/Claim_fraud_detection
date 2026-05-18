@@ -114,9 +114,9 @@ Seaborn
 
 # Model Performance
 
-## Confusion Matrix
+## Confusion Matrix Smote
 
-![Confusion Matrix](image/confusion_matrix.png)
+![Confusion Matrix](image/confusion_matrix_smote.png)
 
 ## ROC Curve
 
